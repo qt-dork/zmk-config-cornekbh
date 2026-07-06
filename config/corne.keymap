@@ -186,7 +186,7 @@
             bindings = <
 &kp TAB        &kp Q  &kp W  &kp F     &kp P  &kp G        &kp J    &kp L      &kp U         &kp Y    &kp SEMI  &kp LCTRL
 &kp BACKSPACE  &kp A  &kp R  &kp S     &kp T  &kp D        &kp H    &kp N      &kp E         &kp I    &kp O     &kp SQT
-&kp LSHIFT     &kp Z  &kp X  &kp C     &kp V  &kp B        &kp K    &kp M      &kp COMMA     &kp DOT  &kp FSLH  &mo 4
+&kp LSHIFT     &kp Z  &kp X  &kp C     &kp V  &kp B        &kp K    &kp M      &kp COMMA     &kp DOT  &kp FSLH  &kp RSHIFT
                              &kp LGUI  &mo 1  &kp SPACE    &kp RET  &lt 2 TAB  &kp LEFT_ALT
             >;
         };
